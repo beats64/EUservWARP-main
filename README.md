@@ -23,7 +23,7 @@
 
 ### 仅支持Debian 10/Ubuntu 20.04系统一键综合脚本
 ```
-wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/ygkkk/EUservWARP/wgmd.sh && chmod +x wgmd.sh && ./wgmd.sh
+wget -N --no-check-certificate https://github.com/beats64/EUservWARP-main/raw/main/wgmd.sh && chmod +x wgmd.sh && ./wgmd.sh
 ```
 进入脚本快捷方式 ```bash wgmd.sh```
 
